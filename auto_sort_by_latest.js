@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Auto Click on Twitter Button
+// @name         sort by latest for twitter comments
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Automatically clicks a specific button on Twitter and then clicks another element
