@@ -1,9 +1,9 @@
-sort by latest for Twitter comments
+auto sort by for Twitter comments
 Overview
 This is a simple Tampermonkey user script designed to automatically interact with Twitter's UI to ensure that comments on tweets are sorted by the latest. It clicks a specific button to change the sorting order and then clicks on another element for enhanced user experience.
 
 Features
-Automatically clicks the "Sort by Latest" button on Twitter.
+Automatically clicks the "Sort by" button on Twitter.
 Clicks a secondary element for additional actions.
 Runs in the background and checks for the appropriate elements every second.
 Installation
